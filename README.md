@@ -8,9 +8,8 @@
 
 - 📫 How to reach me **methavee94@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/w0cPrsS4g](https://resume.io/r/w0cPrsS4g)
+- 📄 Know about my experiences [Methavee_Lu_Yi_Hui_Resume_2711.pdf](https://github.com/methaveelu/methaveelu/files/13471545/Methavee_Lu_Yi_Hui_Resume_2711.pdf)
 
-- ⚡ Fun fact **I am an ex-military officer**
 
 **My Projects**
 - 👨‍💻 E-commerce Wedding Products at [https://e-commerce-client-0xts.onrender.com/]
